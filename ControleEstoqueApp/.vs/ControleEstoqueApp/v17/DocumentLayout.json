@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\apresentacao\\frmcontroledeestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\apresentacao\\frmcontroledeestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\controleestoqueapp\\apresentacao\\frmcontroledeestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\apresentacao\\frmcontroledeestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\servico\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\servico\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\infraestrutura\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\infraestrutura\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\infraestrutura\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\infraestrutura\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\apresentacao\\frmcontroledeestoque.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\apresentacao\\frmcontroledeestoque.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\infraestrutura\\migrations\\20250304224547_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\infraestrutura\\migrations\\20250304224547_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\infraestrutura\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\infraestrutura\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|c:\\users\\joao_p_scheid\\source\\repos\\controleestoqueapp\\controleestoqueapp\\dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF1EAF-F86E-4134-B952-D7F2E23315A9}|ControleEstoqueApp\\ControleEstoqueApp.csproj|solutionrelative:controleestoqueapp\\dominio\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Program.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Program.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:31:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoServico.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Servico\\ProdutoServico.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Servico\\ProdutoServico.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Servico\\ProdutoServico.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Servico\\ProdutoServico.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:30:44.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:26:19.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmControleDeEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowFYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:33:27.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmControleDeEstoque.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs [Projeto]",
+              "RelativeToolTip": "ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:19:28.191Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmControleDeEstoque.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.Designer.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.Designer.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.Designer.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Apresentacao\\FrmControleDeEstoque.Designer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAH8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:36:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Infraestrutura\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Infraestrutura\\Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:39:37.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250304224547_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Migrations\\20250304224547_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Infraestrutura\\Migrations\\20250304224547_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Migrations\\20250304224547_InitialCreate.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Infraestrutura\\Migrations\\20250304224547_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:03:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Infraestrutura\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Infraestrutura\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Infraestrutura\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:03:16.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Dominio\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "ControleEstoqueApp\\Dominio\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\joao_p_scheid\\source\\repos\\ControleEstoqueApp\\ControleEstoqueApp\\Dominio\\Entidades\\Produto.cs",
+              "RelativeToolTip": "ControleEstoqueApp\\Dominio\\Entidades\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:32:49.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHsUAAAAAAAAAAD4v4UUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-04T23:52:34.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
